@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    /*width: 100%;*/
+    background-image: url(f.jpg);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+  
+  .container {
+    width: 500px;
+    max-width: 500px;
+    padding: 0 20px;
+    margin-top: 140px;
+  }
+  
+  .content {
+    display: flex; 
+    align-items: center; 
+    background: beige;
+    padding: 40px;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  form{
+      margin-bottom: 10px;
+  }
+  
+  
